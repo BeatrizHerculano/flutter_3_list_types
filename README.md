@@ -1,16 +1,7 @@
 # palestras_3_listas
 
-A new Flutter project.
+Esse projeto foi criado para a palestra "3 tipos de listas pra deixar seu aplicativo lindo" apresentada no dia 19/12/2019 no 1º meetup da Flutter Nation.
 
-## Getting Started
+## Sobre o app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse app usa o [carousel_slider](https://pub.dev/packages/carousel_slider) para contruir a ultima lista. Se voce quiser reproduzir ela, não esqueça de adicionar essa dependencia no seu pubspec.yaml.
